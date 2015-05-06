@@ -1,8 +1,8 @@
 # Checklist
 
-- Fill out our [pre-meeting survey](https://docs.google.com/forms/d/1BqS4DQ_-EXGSIF9czMjzuo8D7gdAmXiDKa9_1ISnyNs/viewform?c=0&w=1). Your input is valuable to us!
+1. Fill out our [pre-meeting survey](https://docs.google.com/forms/d/1BqS4DQ_-EXGSIF9czMjzuo8D7gdAmXiDKa9_1ISnyNs/viewform?c=0&w=1). Your input is valuable to us!
 
-- Be sure to install the following software:
+2. Be sure to install the following software:
 
 	* An up-to-date **web browser**. We recommend [Chrome](http://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/). Please . . . no Internet Explorer.
 
