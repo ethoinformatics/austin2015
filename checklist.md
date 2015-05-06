@@ -24,17 +24,17 @@
       - R4CouchDB
       - jsonlite
 
-_**Installing packages in R**_
-
-```R
-install.packages('lubridate')
-install.packages('reshape')
-install.packages('RMySQL')
-install.packages('RPostgreSQL')
-install.packages('RSQLite')
-install.packages('R4CouchDB')
-install.packages('jsonlite')
-```
+	_**Installing packages in R**_
+	
+	```R
+	install.packages('lubridate')
+	install.packages('reshape')
+	install.packages('RMySQL')
+	install.packages('RPostgreSQL')
+	install.packages('RSQLite')
+	install.packages('R4CouchDB')
+	install.packages('jsonlite')
+	```
 
   * The version control software [git](http://git-scm.com/).
      - We also recommending installing a graphical user interface client for your operating system:
