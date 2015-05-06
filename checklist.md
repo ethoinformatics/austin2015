@@ -17,7 +17,7 @@
      - For beginners, we also recommend installing [RStudio](http://www.rstudio.com/), an Integrated Development Environment for R.
      - You may also want to install the following packages (the code to do so is below):
       - lubridate
-      - reshape
+      - reshape2
       - RMySQL
       - RPostgreSQL
       - RSQLite
@@ -28,7 +28,7 @@
 
         ```R
         install.packages('lubridate')
-        install.packages('reshape')
+        install.packages('reshape2')
         install.packages('RMySQL')
         install.packages('RPostgreSQL')
         install.packages('RSQLite')
