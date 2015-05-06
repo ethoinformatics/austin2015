@@ -9,9 +9,9 @@
 	* An up-to-date **web browser**. We recommend [Chrome](http://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/). Please . . . no Internet Explorer.
 
 	* A **text editor**. We recommend:
-     - Atom (Mac, Windows, Linux)
-     - TextWrangler (Mac only)
-     - Notepad++ (Windows only)
+     - [Atom](https://atom.io/) (Mac, Windows, Linux)
+     - [TextWrangler](http://www.barebones.com/products/textwrangler/) (Mac only)
+     - [Notepad++](http://notepad-plus-plus.org/) (Windows only)
 
   * The statistical programming software [R](http://cran.r-project.org/).
      - For beginners, we also recommend installing [RStudio](http://www.rstudio.com/), an Integrated Development Environment for R.
