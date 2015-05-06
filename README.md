@@ -1,1 +1,1 @@
-# austin2015
+# Ethoinformatics in Austin
