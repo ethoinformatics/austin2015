@@ -24,7 +24,7 @@
       - R4CouchDB
       - jsonlite
 
-      - _**Installing packages in R**_
+> _**Installing packages in R**_
 
         ```R
         install.packages('lubridate')
